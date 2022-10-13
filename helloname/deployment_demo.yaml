@@ -14,7 +14,7 @@ spec:
         app: helloname
     spec:
       containers:
-        - image: mxwest.jfrog.io/argocd-demo-docker-local/helloname:ad94238
+        - image: mxwest.jfrog.io/argocd-demo-docker-local/helloname:b416165
           name: helloname
           ports:
             - containerPort: 80
