@@ -14,7 +14,7 @@ spec:
         app: helloname
     spec:
       containers:
-        - image: mxwest/helloname:7b0064e
+        - image: mxwest/helloname:1bbdb4b
           name: helloname
           ports:
             - containerPort: 80
